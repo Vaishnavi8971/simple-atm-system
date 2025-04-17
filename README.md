@@ -42,4 +42,4 @@ javac miniproject/*.java
 java miniproject.Solution
 
 ## Author
-Vaishu (CSE Final Year Student)
+Vaishnavi Bandeppanavar (CSE Final Year Student)
